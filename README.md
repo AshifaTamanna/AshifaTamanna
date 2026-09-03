@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi, I'm Ashifa Tamanna 👋
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on full-stack web development projects<br><br>🌱 I’m currently learning React, Next.js, NestJS & PostgreSQL<br><br>👯 I’m looking to collaborate on innovative web applications and open-source projects<br><br>🤔 I’m looking for help with advanced full-stack development and best practices<br><br>💬 Ask me about Web Development, JavaScript, React, PHP & Databases<br><br>📫 How to reach me: ashifa.tamanna24@gmail.com
 
 
